@@ -77,7 +77,7 @@
     "qq": "^0.3.5",
     "rewire": "~2.1.0",
     "sax": "^1.1.1",
-    "semver": "~4.0.3",
+    "semver": "~4.3.2",
     "shelljs": "~0.3.0",
     "sorted-object": "^1.0.0",
     "stringmap": "^0.2.2",
